@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <h1>📸 Cameon - Camera Website</h1>
-  <p>A sleek and responsive camera eCommerce website for showcasing photography gear and accessories.</p>
+  <p>A sleek and responsive camera website that is only on first page.</p>
   
   <img src="Cameon%20Camera%20Website/ss.jpg" alt="Cameon Camera Website Screenshot" width="100%"/>
 </div>
